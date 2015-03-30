@@ -3,7 +3,7 @@
 ####[SEE DEMO HERE ](http://imagesimulator.webege.com/globe.php "http://imagesimulator.webege.com/globe.php") 
 
 
-### Because I find matlab boring!
+### Because I like watching objects in 3rd Dimension!
 
 An online 2D to 3D image wrapper tool built using three.js.
 
